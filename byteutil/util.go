@@ -5,7 +5,7 @@ import (
 	// "fmt"
 	"unsafe"
 
-	"github.com/shenwei356/bpool"
+	"github.com/zhaoboqiao/bpool"
 )
 
 // ReverseByteSlice reverses a byte slice
